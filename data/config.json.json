@@ -1,0 +1,15 @@
+{
+  "versao": "1.0.0",
+  "ultima_atualizacao": "2025-10-24T00:00:00Z",
+  "intervalo_atualizacao_horas": 24,
+  "tema": {
+    "cor_primaria": "#2A8BF2",
+    "cor_secundaria": "#F2A22A",
+    "modo": "claro"
+  },
+  "app": {
+    "nome": "Quiz Sou da Banda",
+    "descricao": "Aplicativo educativo sobre Angola — história, cultura e geografia.",
+    "autor": "Joaquim Ildefonso"
+  }
+}

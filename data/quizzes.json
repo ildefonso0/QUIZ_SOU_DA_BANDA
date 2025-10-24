@@ -1,0 +1,81 @@
+[
+  {
+    "id": 101,
+    "categoria": "História",
+    "tipo": "multipla_escolha",
+    "pergunta": "Em que ano Angola conquistou a sua independência?",
+    "opcoes": ["1973", "1974", "1975", "1976"],
+    "resposta_correta": 2,
+    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/historia/1.png",
+    "nivel": "fácil"
+  },
+  {
+    "id": 102,
+    "categoria": "História",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Agostinho Neto foi o primeiro presidente de Angola.",
+    "resposta_correta": true,
+    "nivel": "fácil"
+  },
+  {
+    "id": 103,
+    "categoria": "História",
+    "tipo": "completar_frase",
+    "pergunta": "O dia da independência de Angola é celebrado a __ de Novembro.",
+    "resposta_correta": "11",
+    "nivel": "médio"
+  },
+  {
+    "id": 201,
+    "categoria": "Geografia",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a capital da província de Benguela?",
+    "opcoes": ["Lobito", "Catumbela", "Benguela", "Sumbe"],
+    "resposta_correta": 2,
+    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/geografia/1.png",
+    "nivel": "médio"
+  },
+  {
+    "id": 202,
+    "categoria": "Geografia",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "O rio Kwanza é o maior rio inteiramente dentro de Angola.",
+    "resposta_correta": true,
+    "nivel": "médio"
+  },
+  {
+    "id": 203,
+    "categoria": "Geografia",
+    "tipo": "imagem_para_texto",
+    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/geografia/2.jpg",
+    "pergunta": "Qual é o nome desta cidade litorânea?",
+    "resposta_correta": "Luanda",
+    "nivel": "difícil"
+  },
+  {
+    "id": 301,
+    "categoria": "Cultura",
+    "tipo": "imagem_para_texto",
+    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/cultura/1.png",
+    "pergunta": "Qual é o nome desta dança tradicional angolana?",
+    "resposta_correta": "Kizomba",
+    "nivel": "fácil"
+  },
+  {
+    "id": 302,
+    "categoria": "Cultura",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destas línguas nacionais é falada no sul de Angola?",
+    "opcoes": ["Kikongo", "Umbundu", "Tchokwe", "Nganguela"],
+    "resposta_correta": 1,
+    "nivel": "médio"
+  },
+  {
+    "id": 303,
+    "categoria": "Cultura",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "A Kizomba nasceu em Portugal e foi trazida para Angola.",
+    "resposta_correta": false,
+    "nivel": "difícil"
+  }
+]

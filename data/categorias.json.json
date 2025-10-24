@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nome": "História",
+    "descricao": "Descobre os momentos mais marcantes da história de Angola.",
+    "icone": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/historia/1.png"
+  },
+  {
+    "id": 2,
+    "nome": "Geografia",
+    "descricao": "Cidades, rios, províncias e riquezas naturais do país.",
+    "icone": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/geografia/1.png"
+  },
+  {
+    "id": 3,
+    "nome": "Cultura",
+    "descricao": "Tradições, danças, línguas e símbolos nacionais.",
+    "icone": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/cultura/1.png"
+  }
+]
