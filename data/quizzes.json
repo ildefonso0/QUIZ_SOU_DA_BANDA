@@ -1,81 +1,348 @@
 [
   {
-    "id": 101,
+    "id": 1,
     "categoria": "História",
     "tipo": "multipla_escolha",
     "pergunta": "Em que ano Angola conquistou a sua independência?",
     "opcoes": ["1973", "1974", "1975", "1976"],
     "resposta_correta": 2,
-    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/historia/1.png",
-    "nivel": "fácil"
+    "explicacao": "Angola conquistou sua independência em 11 de novembro de 1975."
   },
   {
-    "id": 102,
-    "categoria": "História",
+    "id": 2,
+    "categoria": "Geografia",
     "tipo": "verdadeiro_falso",
-    "pergunta": "Agostinho Neto foi o primeiro presidente de Angola.",
+    "pergunta": "Luanda é a capital de Angola.",
     "resposta_correta": true,
-    "nivel": "fácil"
+    "explicacao": "Sim, Luanda é a capital e maior cidade de Angola."
   },
   {
-    "id": 103,
+    "id": 3,
+    "categoria": "Cultura",
+    "tipo": "imagem_para_texto",
+    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/cultura/danca.jpg",
+    "pergunta": "Qual é o nome desta dança tradicional?",
+    "resposta_correta": "Semba",
+    "explicacao": "O Semba é uma dança tradicional angolana que originou a Kizomba."
+  },
+  {
+    "id": 4,
     "categoria": "História",
     "tipo": "completar_frase",
-    "pergunta": "O dia da independência de Angola é celebrado a __ de Novembro.",
-    "resposta_correta": "11",
-    "nivel": "médio"
+    "pergunta": "O primeiro presidente de Angola foi ___",
+    "resposta_correta": "Agostinho Neto",
+    "explicacao": "Dr. António Agostinho Neto foi o primeiro presidente de Angola."
   },
   {
-    "id": 201,
-    "categoria": "Geografia",
+    "id": 5,
+    "categoria": "História",
     "tipo": "multipla_escolha",
-    "pergunta": "Qual é a capital da província de Benguela?",
-    "opcoes": ["Lobito", "Catumbela", "Benguela", "Sumbe"],
+    "pergunta": "Qual era o nome do movimento liderado por Agostinho Neto?",
+    "opcoes": ["FNLA", "UNITA", "MPLA", "FRELIMO"],
     "resposta_correta": 2,
-    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/geografia/1.png",
-    "nivel": "médio"
+    "explicacao": "Agostinho Neto liderou o MPLA — Movimento Popular de Libertação de Angola."
   },
   {
-    "id": 202,
-    "categoria": "Geografia",
+    "id": 6,
+    "categoria": "História",
     "tipo": "verdadeiro_falso",
-    "pergunta": "O rio Kwanza é o maior rio inteiramente dentro de Angola.",
+    "pergunta": "A guerra civil angolana terminou em 2002.",
     "resposta_correta": true,
-    "nivel": "médio"
+    "explicacao": "O conflito terminou oficialmente em 2002, após a morte de Jonas Savimbi."
   },
   {
-    "id": 203,
+    "id": 7,
     "categoria": "Geografia",
-    "tipo": "imagem_para_texto",
-    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/geografia/2.jpg",
-    "pergunta": "Qual é o nome desta cidade litorânea?",
-    "resposta_correta": "Luanda",
-    "nivel": "difícil"
+    "tipo": "multipla_escolha",
+    "pergunta": "Quantas províncias tem Angola?",
+    "opcoes": ["16", "18", "20", "22"],
+    "resposta_correta": 1,
+    "explicacao": "Angola é composta por 18 províncias."
   },
   {
-    "id": 301,
+    "id": 8,
+    "categoria": "Geografia",
+    "tipo": "completar_frase",
+    "pergunta": "O rio mais longo de Angola é o rio ___",
+    "resposta_correta": "Kwanza",
+    "explicacao": "O rio Kwanza é o maior rio inteiramente dentro do território angolano."
+  },
+  {
+    "id": 9,
     "categoria": "Cultura",
-    "tipo": "imagem_para_texto",
-    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/cultura/1.png",
-    "pergunta": "Qual é o nome desta dança tradicional angolana?",
-    "resposta_correta": "Kizomba",
-    "nivel": "fácil"
+    "tipo": "verdadeiro_falso",
+    "pergunta": "A Kizomba é um género musical angolano.",
+    "resposta_correta": true,
+    "explicacao": "A Kizomba nasceu em Angola e combina Semba com ritmos modernos."
   },
   {
-    "id": 302,
+    "id": 10,
     "categoria": "Cultura",
     "tipo": "multipla_escolha",
-    "pergunta": "Qual destas línguas nacionais é falada no sul de Angola?",
-    "opcoes": ["Kikongo", "Umbundu", "Tchokwe", "Nganguela"],
-    "resposta_correta": 1,
-    "nivel": "médio"
+    "pergunta": "Qual destes instrumentos é tradicional na música angolana?",
+    "opcoes": ["Marimba", "Guitarra elétrica", "Violino", "Piano"],
+    "resposta_correta": 0,
+    "explicacao": "A marimba é um instrumento típico da música angolana."
   },
   {
-    "id": 303,
+    "id": 11,
+    "categoria": "História",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem sucedeu Agostinho Neto como presidente?",
+    "opcoes": ["Jonas Savimbi", "Eduardo dos Santos", "João Lourenço", "Holden Roberto"],
+    "resposta_correta": 1,
+    "explicacao": "José Eduardo dos Santos foi o segundo presidente de Angola."
+  },
+  {
+    "id": 12,
+    "categoria": "História",
+    "tipo": "completar_frase",
+    "pergunta": "A independência de Angola foi proclamada a 11 de ___ de 1975.",
+    "resposta_correta": "novembro",
+    "explicacao": "A independência foi proclamada em 11 de novembro de 1975."
+  },
+  {
+    "id": 13,
+    "categoria": "Geografia",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "A província do Huambo fica no litoral de Angola.",
+    "resposta_correta": false,
+    "explicacao": "Huambo situa-se no planalto central, sem litoral."
+  },
+  {
+    "id": 14,
+    "categoria": "Geografia",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destas províncias é a mais populosa?",
+    "opcoes": ["Huíla", "Luanda", "Benguela", "Cabinda"],
+    "resposta_correta": 1,
+    "explicacao": "Luanda é a província mais populosa de Angola."
+  },
+  {
+    "id": 15,
+    "categoria": "Cultura",
+    "tipo": "completar_frase",
+    "pergunta": "A música popular angolana chama-se ___",
+    "resposta_correta": "Semba",
+    "explicacao": "O Semba é o estilo mais tradicional e influente da música angolana."
+  },
+  {
+    "id": 16,
+    "categoria": "História",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Jonas Savimbi foi o líder da UNITA.",
+    "resposta_correta": true,
+    "explicacao": "Jonas Savimbi fundou e liderou a UNITA até 2002."
+  },
+  {
+    "id": 17,
+    "categoria": "Geografia",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a maior província de Angola em área?",
+    "opcoes": ["Cuando Cubango", "Moxico", "Huíla", "Bengo"],
+    "resposta_correta": 1,
+    "explicacao": "Moxico é a província mais extensa do país."
+  },
+  {
+    "id": 18,
+    "categoria": "Cultura",
+    "tipo": "imagem_para_texto",
+    "imagem": "https://raw.githubusercontent.com/ildefonso0/QUIZ_SOU_DA_BANDA/main/imagens/cultura/kizomba.jpg",
+    "pergunta": "Qual é o nome desta dança popular moderna?",
+    "resposta_correta": "Kizomba",
+    "explicacao": "A Kizomba é uma dança moderna derivada do Semba."
+  },
+  {
+    "id": 19,
+    "categoria": "Cultura",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é conhecido como 'Rei da Kizomba'?",
+    "opcoes": ["Anselmo Ralph", "Matias Damásio", "Bonga", "C4 Pedro"],
+    "resposta_correta": 3,
+    "explicacao": "C4 Pedro é frequentemente chamado de 'Rei da Kizomba'."
+  },
+  {
+    "id": 20,
+    "categoria": "História",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destes países fazia fronteira com Angola durante o período colonial?",
+    "opcoes": ["Zâmbia", "Egito", "Somália", "Sudão"],
+    "resposta_correta": 0,
+    "explicacao": "A Zâmbia faz fronteira a leste com Angola."
+  },
+  {
+    "id": 21,
+    "categoria": "Desporto",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Angola já participou em Campeonatos Mundiais de Andebol.",
+    "resposta_correta": true,
+    "explicacao": "A seleção angolana feminina de andebol participa regularmente em mundiais."
+  },
+  {
+    "id": 22,
+    "categoria": "Desporto",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o clube de futebol mais antigo de Angola?",
+    "opcoes": ["1º de Agosto", "Petro de Luanda", "Benfica de Luanda", "Sagrada Esperança"],
+    "resposta_correta": 2,
+    "explicacao": "O Benfica de Luanda é um dos clubes mais antigos, fundado em 1922."
+  },
+  {
+    "id": 23,
+    "categoria": "Geografia",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destas cidades é portuária?",
+    "opcoes": ["Lubango", "Benguela", "Huambo", "Malanje"],
+    "resposta_correta": 1,
+    "explicacao": "Benguela é uma importante cidade portuária no litoral angolano."
+  },
+  {
+    "id": 24,
+    "categoria": "História",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "A colonização portuguesa em Angola começou no século XV.",
+    "resposta_correta": true,
+    "explicacao": "Os portugueses chegaram à costa angolana em 1482, liderados por Diogo Cão."
+  },
+  {
+    "id": 25,
+    "categoria": "Cultura",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a língua oficial de Angola?",
+    "opcoes": ["Umbundu", "Quimbundo", "Português", "Tchokwe"],
+    "resposta_correta": 2,
+    "explicacao": "O português é a língua oficial de Angola."
+  },
+  {
+    "id": 26,
+    "categoria": "História",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem foi a Rainha Nzinga Mbande?",
+    "opcoes": [
+      "Uma líder religiosa",
+      "Uma guerreira e rainha dos reinos de Ndongo e Matamba",
+      "Uma poetisa angolana",
+      "Uma exploradora portuguesa"
+    ],
+    "resposta_correta": 1,
+    "explicacao": "Nzinga Mbande foi uma rainha e líder militar que resistiu à colonização portuguesa."
+  },
+  {
+    "id": 27,
+    "categoria": "Curiosidades",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "O deserto do Namibe fica no sul de Angola.",
+    "resposta_correta": true,
+    "explicacao": "O deserto do Namibe estende-se pelo sudoeste de Angola."
+  },
+  {
+    "id": 28,
+    "categoria": "Curiosidades",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é o principal produto de exportação de Angola?",
+    "opcoes": ["Café", "Petróleo", "Diamantes", "Madeira"],
+    "resposta_correta": 1,
+    "explicacao": "O petróleo representa a principal exportação do país."
+  },
+  {
+    "id": 29,
+    "categoria": "Geografia",
+    "tipo": "completar_frase",
+    "pergunta": "A província mais ao norte de Angola é ___",
+    "resposta_correta": "Cabinda",
+    "explicacao": "Cabinda é um enclave ao norte, separado do resto do território."
+  },
+  {
+    "id": 30,
     "categoria": "Cultura",
     "tipo": "verdadeiro_falso",
-    "pergunta": "A Kizomba nasceu em Portugal e foi trazida para Angola.",
-    "resposta_correta": false,
-    "nivel": "difícil"
+    "pergunta": "O Carnaval de Luanda é uma das festas mais tradicionais do país.",
+    "resposta_correta": true,
+    "explicacao": "O Carnaval de Luanda é um evento cultural e histórico celebrado todos os anos."
+  },
+  {
+    "id": 31,
+    "categoria": "Curiosidades",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual é a moeda oficial de Angola?",
+    "opcoes": ["Real", "Metical", "Kwanza", "Escudo"],
+    "resposta_correta": 2,
+    "explicacao": "A moeda oficial é o Kwanza (AOA)."
+  },
+  {
+    "id": 32,
+    "categoria": "Cultura",
+    "tipo": "completar_frase",
+    "pergunta": "O cantor Bonga é conhecido por popularizar o estilo ___",
+    "resposta_correta": "Semba",
+    "explicacao": "Bonga é um ícone da música angolana e grande representante do Semba."
+  },
+  {
+    "id": 33,
+    "categoria": "História",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "Angola foi uma das últimas colônias africanas a tornar-se independente.",
+    "resposta_correta": true,
+    "explicacao": "A independência em 1975 foi relativamente tardia comparada a outros países africanos."
+  },
+  {
+    "id": 34,
+    "categoria": "Geografia",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destas cidades é capital provincial de Benguela?",
+    "opcoes": ["Lobito", "Benguela", "Sumbe", "Namibe"],
+    "resposta_correta": 1,
+    "explicacao": "A cidade de Benguela é a capital da província homónima."
+  },
+  {
+    "id": 35,
+    "categoria": "Desporto",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "O futebol é o desporto mais popular em Angola.",
+    "resposta_correta": true,
+    "explicacao": "O futebol é a modalidade mais praticada e assistida no país."
+  },
+  {
+    "id": 36,
+    "categoria": "Curiosidades",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destes animais é símbolo do Parque Nacional da Kissama?",
+    "opcoes": ["Elefante", "Leão", "Girafa", "Rinoceronte"],
+    "resposta_correta": 0,
+    "explicacao": "O Parque Nacional da Kissama é famoso pelos seus elefantes."
+  },
+  {
+    "id": 37,
+    "categoria": "História",
+    "tipo": "completar_frase",
+    "pergunta": "A bandeira de Angola tem as cores vermelha e ___",
+    "resposta_correta": "preta",
+    "explicacao": "A bandeira de Angola é metade vermelha e metade preta, com um símbolo amarelo ao centro."
+  },
+  {
+    "id": 38,
+    "categoria": "Geografia",
+    "tipo": "multipla_escolha",
+    "pergunta": "Qual destas províncias tem fronteira com o oceano Atlântico?",
+    "opcoes": ["Moxico", "Huambo", "Namibe", "Bié"],
+    "resposta_correta": 2,
+    "explicacao": "Namibe é uma província costeira banhada pelo Atlântico."
+  },
+  {
+    "id": 39,
+    "categoria": "Curiosidades",
+    "tipo": "verdadeiro_falso",
+    "pergunta": "A flor nacional de Angola é a Welwitschia Mirabilis.",
+    "resposta_correta": true,
+    "explicacao": "A Welwitschia Mirabilis é uma planta milenar do deserto do Namibe."
+  },
+  {
+    "id": 40,
+    "categoria": "História",
+    "tipo": "multipla_escolha",
+    "pergunta": "Quem é o atual presidente de Angola (2025)?",
+    "opcoes": ["Eduardo dos Santos", "João Lourenço", "Jonas Savimbi", "Agostinho Neto"],
+    "resposta_correta": 1,
+    "explicacao": "João Lourenço é o presidente de Angola desde 2017."
   }
 ]
